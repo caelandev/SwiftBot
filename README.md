@@ -1,4 +1,4 @@
-# **Swift Discord Bot**
+# **Ticket Bot**
 
 **Swift** is a modern, feature-rich Discord bot built with Java and JDA discord api. It offers a ticketing system that allows users to create support tickets with options, as well as a file download system where users can download files by providing their file paths. The bot also features an intuitive setup command for configuring ticket panels, making it easy to manage support requests.
 
